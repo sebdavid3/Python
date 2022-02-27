@@ -1,9 +1,25 @@
+#Saludo inicial
+from ast import If
+from typing import final
+
+
+print("Bienvenido al conversor de monedas")
+moneda_inicial = int(input("Elige la moneda a convertir: 1 - Pesos, 2 - Dolares, 3 - Yen "))
+moneda_final = int(input("¿A cual moneda quieres convertir? 1 - Pesos, 2 - Dolares, 3 - Yen"))
+
+valor_dolar_pesos = 3898
+valor_dolar_yen = 115
+
+
+
+If (moneda_inicial == 1) and (moneda_final == 2) :
+
+if
+
+
+
+
 pesos = input("¿Cuantos pesos colombianos tines? :")
 pesos = float(pesos)
 
-valor_dolar = 3898
 
-dolares = pesos / valor_dolar
-dolares = round(dolares)
-dolares = str(dolares)
-print("Tienes $" + dolares + "dolares ")

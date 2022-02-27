@@ -14,7 +14,6 @@ valor_dolar_yen = 115
 
 If (moneda_inicial == 1) and (moneda_final == 2) :
 
-if
 
 
 
